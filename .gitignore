@@ -1,0 +1,17 @@
+*node_modules
+npm_debug.log
+logs
+/coverage
+/.idea
+/lib/
+.nyc_output
+.env
+dist
+.idea
+jsconfig.json
+.vscode
+yarn.lock
+.DS_Store
+*package-lock.json
+
+mongo-data
