@@ -6,8 +6,8 @@
 Clone the repository and install dependencies:
 
 ```
-$ git clone https://github.com/zoomment/zoomment-server.git
-$ cd zoomment-server
+$ git clone https://github.com/stormdotcom/ts-node-api.git
+$ cd ts-node-api
 $ npm install
 ```
 
